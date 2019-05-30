@@ -1,0 +1,19 @@
+{
+    "name": "phillmac/sse-client",
+    "description": "A Server Sent Events Implementation",
+    "type": "library",
+    "require": {
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Phillip Mackintosh",
+            "email": "phillmackintosh@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "SseClient\\": "src/"
+        }
+    }
+}
